@@ -6,6 +6,7 @@
 | git log --oneline       | Show the commit history                          |
 | git push                | Upload content to the remote repository          |
 | git pull                | Download content from the remote repository      |
+| git remote -v | shows the origin adress of the git repo
 
 Connecting your local repository to a new remote repository
 
